@@ -23,7 +23,7 @@ nav ul li a {
   color: white;
   text-decoration: none;
 }
-#icono {
+#icono img {
   filter: invert(1) brightness(100%) contrast(100%);
   width: 30px;
 }
